@@ -10,3 +10,4 @@ if __name__ == "__main__":
     pass
 print(1)
 print(1)
+print(1)
