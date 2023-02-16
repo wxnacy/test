@@ -25,3 +25,4 @@ def test(a: int, b: str, name_str_name_str_name_str_name_str_name_str_name_str_:
 print(1)
 print(1)
 print(1)
+print(1)
